@@ -1,0 +1,18 @@
+
+{
+    "Dev":{
+    "username": "admin",
+    "password": "foodmenu",
+    "address": "db",
+    "port": "3306",
+    "database": "Me-Nu"
+    },
+    "Dev1":{
+        "username": "v3t90lrfvendqz70",
+        "password": "nm504qie3smuf0pv",
+        "hostname": "ilzyz0heng1bygi8.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+        "port": "3306",
+        "database": "s7myo9xicxce5pj4"
+        }
+    
+}
